@@ -1,0 +1,4 @@
+numero_real = float(input("Introduce un numero real:"))
+#print(f"El número introducido{numero_real} es del tipo {} y su identificador es{}")
+print(type(numero_real))
+print(id(numero_real))
